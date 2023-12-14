@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_lastname_text">Mesropian Michael</string>
+    <string name="occupation_text">Android Developer Extraordinaire</string>
+    <string name="phone_number">+38 (097) 12 34 567</string>
+    <string name="share_text">\@MMesropian</string>
+    <string name="email_text">MMesropian@gmail.com</string>
+</resources>
